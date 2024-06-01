@@ -1,0 +1,34 @@
+{
+  "variables": [
+    {
+      "name": "X1",
+      "type": "continuous",
+      "group_name": "X1"
+    },
+    {
+      "name": "X2",
+      "type": "continuous",
+      "group_name": "X2"
+    },
+    {
+      "name": "Y1",
+      "type": "continuous",
+      "group_name": "Y1"
+    },
+    {
+      "name": "X1:1",
+      "type": "continuous",
+      "group_name": "X1:1"
+    },
+    {
+      "name": "X2:1",
+      "type": "continuous",
+      "group_name": "X2:1"
+    },
+    {
+      "name": "Y1:1",
+      "type": "continuous",
+      "group_name": "Y1:1"
+    }
+  ]
+}
