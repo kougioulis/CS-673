@@ -34,11 +34,13 @@ There are two separate environments that need to be configured to reproduce this
 You may create the virtual environments with their respective requirements using the provided `.yml` files, using for example your Anaconda installation, on your shell as
 
 1. For CDML:
-   ```conda env create -f environment_cdml.yml
+   ```sh
+    conda env create -f environment_cdml.yml
    ```
 
 2. For causica:
-   ```conda env create -f environment_causica.yml
+   ```sh
+   conda env create -f environment_causica.yml
    ```
 
 ### 📌 Environment Details
