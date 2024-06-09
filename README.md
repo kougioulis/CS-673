@@ -35,12 +35,12 @@ You may create the virtual environments with their respective requirements using
 
 1. For CDML:
    ```sh
-    conda env create -f environment_cdml.yml
+    conda env create -f environment-cdml.yml
    ```
 
 2. For causica:
    ```sh
-   conda env create -f environment_causica.yml
+   conda env create -f environment-causica.yml
    ```
 
 ### 📌 Environment Details
