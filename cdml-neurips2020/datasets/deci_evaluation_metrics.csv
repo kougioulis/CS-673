@@ -1,0 +1,25 @@
+Dataset,SHD,AUPR,SID,Precision,Recall,F1-Score
+Complexity 0 Num Features 3 Num Latent 0 Max Lag 1 Min Lag 1 Target Max Parents 3 Max Children 0 Samples 100 Noise 0.01 0.1,16,0.2693452380952381,8,0.42857142857142855,1.0,0.6
+Complexity 0 Num Features 5 Num Latent 0 Max Lag 3 Min Lag 1 Target Max Parents 3 Max Children 0 Samples 10000 Noise 0.01 0.1,100,0.11086890147189443,62,0.5211267605633803,1.0,0.6851851851851851
+Complexity 0 Num Features 2 Num Latent 0 Max Lag 1 Min Lag 1 Target Max Parents 3 Max Children 0 Samples 1000 Noise 0.01 0.1,4,0.6666666666666666,4,0.3333333333333333,1.0,0.5
+Complexity 0 Num Features 3 Num Latent 0 Max Lag 1 Min Lag 1 Target Max Parents 3 Max Children 0 Samples 1000 Noise 0.01 0.1,15,0.16785037878787878,5,0.5454545454545454,1.0,0.7058823529411764
+Complexity 0 Num Features 3 Num Latent 0 Max Lag 1 Min Lag 1 Target Max Parents 3 Max Children 0 Samples 10000 Noise 0.01 0.1,11,0.19382440476190477,1,0.8571428571428571,1.0,0.923076923076923
+Complexity 0 Num Features 5 Num Latent 0 Max Lag 1 Min Lag 1 Target Max Parents 3 Max Children 0 Samples 100 Noise 0.01 0.1,31,0.10298913043478261,19,0.30434782608695654,0.7,0.42424242424242425
+Complexity 0 Num Features 2 Num Latent 0 Max Lag 3 Min Lag 1 Target Max Parents 3 Max Children 0 Samples 100 Noise 0.01 0.1,37,0.31794294294294295,36,0.21621621621621623,1.0,0.35555555555555557
+Complexity 0 Num Features 5 Num Latent 0 Max Lag 1 Min Lag 1 Target Max Parents 3 Max Children 0 Samples 1000 Noise 0.01 0.1,29,0.2949074074074074,17,0.37037037037037035,1.0,0.5405405405405406
+Complexity 0 Num Features 2 Num Latent 0 Max Lag 1 Min Lag 1 Target Max Parents 3 Max Children 0 Samples 100 Noise 0.01 0.1,7,0.6111111111111112,7,0.2222222222222222,1.0,0.3636363636363636
+Complexity 0 Num Features 15 Num Latent 0 Max Lag 3 Min Lag 1 Target Max Parents 3 Max Children 0 Samples 100 Noise 0.01 0.1,705,0.10502018540669855,872,0.1291866028708134,0.7105263157894737,0.21862348178137653
+Complexity 0 Num Features 3 Num Latent 0 Max Lag 3 Min Lag 1 Target Max Parents 3 Max Children 0 Samples 100 Noise 0.01 0.1,57,0.30608476486354774,46,0.2962962962962963,0.8421052631578947,0.4383561643835616
+Complexity 0 Num Features 2 Num Latent 0 Max Lag 3 Min Lag 1 Target Max Parents 3 Max Children 0 Samples 1000 Noise 0.01 0.1,30,0.33055555555555555,34,0.26666666666666666,1.0,0.4210526315789474
+Complexity 0 Num Features 15 Num Latent 0 Max Lag 1 Min Lag 1 Target Max Parents 3 Max Children 0 Samples 10000 Noise 0.01 0.1,71,0.12017830569727891,19,0.6122448979591837,1.0,0.759493670886076
+Complexity 0 Num Features 15 Num Latent 0 Max Lag 3 Min Lag 1 Target Max Parents 3 Max Children 0 Samples 10000 Noise 0.01 0.1,411,0.06657678130874059,490,0.3619047619047619,1.0,0.5314685314685315
+Complexity 0 Num Features 3 Num Latent 0 Max Lag 3 Min Lag 1 Target Max Parents 3 Max Children 0 Samples 1000 Noise 0.01 0.1,69,0.26233552631578944,51,0.296875,1.0,0.4578313253012048
+Complexity 0 Num Features 15 Num Latent 0 Max Lag 3 Min Lag 1 Target Max Parents 3 Max Children 0 Samples 1000 Noise 0.01 0.1,851,0.1315361102235585,904,0.14522292993630573,1.0,0.25361512791991103
+Complexity 0 Num Features 3 Num Latent 0 Max Lag 3 Min Lag 1 Target Max Parents 3 Max Children 0 Samples 10000 Noise 0.01 0.1,41,0.23704769736842107,29,0.59375,1.0,0.7450980392156863
+Complexity 0 Num Features 2 Num Latent 0 Max Lag 1 Min Lag 1 Target Max Parents 3 Max Children 0 Samples 10000 Noise 0.01 0.1,6,0.027777777777777776,2,0.5,1.0,0.6666666666666666
+Complexity 0 Num Features 15 Num Latent 0 Max Lag 1 Min Lag 1 Target Max Parents 3 Max Children 0 Samples 1000 Noise 0.01 0.1,153,0.09462915473918576,101,0.22900763358778625,1.0,0.37267080745341613
+Complexity 0 Num Features 5 Num Latent 0 Max Lag 1 Min Lag 1 Target Max Parents 3 Max Children 0 Samples 10000 Noise 0.01 0.1,20,0.12291666666666667,2,0.8333333333333334,1.0,0.9090909090909091
+Complexity 0 Num Features 5 Num Latent 0 Max Lag 3 Min Lag 1 Target Max Parents 3 Max Children 0 Samples 1000 Noise 0.01 0.1,161,0.1618531477906478,110,0.2642857142857143,1.0,0.4180790960451978
+Complexity 0 Num Features 2 Num Latent 0 Max Lag 3 Min Lag 1 Target Max Parents 3 Max Children 0 Samples 10000 Noise 0.01 0.1,16,0.3888888888888889,15,0.5,1.0,0.6666666666666666
+Complexity 0 Num Features 5 Num Latent 0 Max Lag 3 Min Lag 1 Target Max Parents 3 Max Children 0 Samples 100 Noise 0.01 0.1,140,0.2152180930930931,108,0.232,0.7837837837837838,0.3580246913580247
+Complexity 0 Num Features 15 Num Latent 0 Max Lag 1 Min Lag 1 Target Max Parents 3 Max Children 0 Samples 100 Noise 0.01 0.1,139,0.17607552083333333,109,0.184,0.7666666666666667,0.2967741935483871

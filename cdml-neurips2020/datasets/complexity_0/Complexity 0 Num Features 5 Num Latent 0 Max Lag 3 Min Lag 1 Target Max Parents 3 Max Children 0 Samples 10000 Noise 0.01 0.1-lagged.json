@@ -1,0 +1,124 @@
+{
+  "variables": [
+    {
+      "name": "X1",
+      "type": "continuous",
+      "group_name": "X1"
+    },
+    {
+      "name": "X2",
+      "type": "continuous",
+      "group_name": "X2"
+    },
+    {
+      "name": "X3",
+      "type": "continuous",
+      "group_name": "X3"
+    },
+    {
+      "name": "X4",
+      "type": "continuous",
+      "group_name": "X4"
+    },
+    {
+      "name": "X5",
+      "type": "continuous",
+      "group_name": "X5"
+    },
+    {
+      "name": "Y1",
+      "type": "continuous",
+      "group_name": "Y1"
+    },
+    {
+      "name": "X1:1",
+      "type": "continuous",
+      "group_name": "X1:1"
+    },
+    {
+      "name": "X2:1",
+      "type": "continuous",
+      "group_name": "X2:1"
+    },
+    {
+      "name": "X3:1",
+      "type": "continuous",
+      "group_name": "X3:1"
+    },
+    {
+      "name": "X4:1",
+      "type": "continuous",
+      "group_name": "X4:1"
+    },
+    {
+      "name": "X5:1",
+      "type": "continuous",
+      "group_name": "X5:1"
+    },
+    {
+      "name": "Y1:1",
+      "type": "continuous",
+      "group_name": "Y1:1"
+    },
+    {
+      "name": "X1:2",
+      "type": "continuous",
+      "group_name": "X1:2"
+    },
+    {
+      "name": "X2:2",
+      "type": "continuous",
+      "group_name": "X2:2"
+    },
+    {
+      "name": "X3:2",
+      "type": "continuous",
+      "group_name": "X3:2"
+    },
+    {
+      "name": "X4:2",
+      "type": "continuous",
+      "group_name": "X4:2"
+    },
+    {
+      "name": "X5:2",
+      "type": "continuous",
+      "group_name": "X5:2"
+    },
+    {
+      "name": "Y1:2",
+      "type": "continuous",
+      "group_name": "Y1:2"
+    },
+    {
+      "name": "X1:3",
+      "type": "continuous",
+      "group_name": "X1:3"
+    },
+    {
+      "name": "X2:3",
+      "type": "continuous",
+      "group_name": "X2:3"
+    },
+    {
+      "name": "X3:3",
+      "type": "continuous",
+      "group_name": "X3:3"
+    },
+    {
+      "name": "X4:3",
+      "type": "continuous",
+      "group_name": "X4:3"
+    },
+    {
+      "name": "X5:3",
+      "type": "continuous",
+      "group_name": "X5:3"
+    },
+    {
+      "name": "Y1:3",
+      "type": "continuous",
+      "group_name": "Y1:3"
+    }
+  ]
+}

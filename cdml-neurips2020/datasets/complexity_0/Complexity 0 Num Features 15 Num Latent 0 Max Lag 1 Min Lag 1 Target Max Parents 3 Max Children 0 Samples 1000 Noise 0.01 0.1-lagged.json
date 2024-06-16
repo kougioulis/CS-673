@@ -1,0 +1,164 @@
+{
+  "variables": [
+    {
+      "name": "X1",
+      "type": "continuous",
+      "group_name": "X1"
+    },
+    {
+      "name": "X10",
+      "type": "continuous",
+      "group_name": "X10"
+    },
+    {
+      "name": "X11",
+      "type": "continuous",
+      "group_name": "X11"
+    },
+    {
+      "name": "X12",
+      "type": "continuous",
+      "group_name": "X12"
+    },
+    {
+      "name": "X13",
+      "type": "continuous",
+      "group_name": "X13"
+    },
+    {
+      "name": "X14",
+      "type": "continuous",
+      "group_name": "X14"
+    },
+    {
+      "name": "X15",
+      "type": "continuous",
+      "group_name": "X15"
+    },
+    {
+      "name": "X2",
+      "type": "continuous",
+      "group_name": "X2"
+    },
+    {
+      "name": "X3",
+      "type": "continuous",
+      "group_name": "X3"
+    },
+    {
+      "name": "X4",
+      "type": "continuous",
+      "group_name": "X4"
+    },
+    {
+      "name": "X5",
+      "type": "continuous",
+      "group_name": "X5"
+    },
+    {
+      "name": "X6",
+      "type": "continuous",
+      "group_name": "X6"
+    },
+    {
+      "name": "X7",
+      "type": "continuous",
+      "group_name": "X7"
+    },
+    {
+      "name": "X8",
+      "type": "continuous",
+      "group_name": "X8"
+    },
+    {
+      "name": "X9",
+      "type": "continuous",
+      "group_name": "X9"
+    },
+    {
+      "name": "Y1",
+      "type": "continuous",
+      "group_name": "Y1"
+    },
+    {
+      "name": "X1:1",
+      "type": "continuous",
+      "group_name": "X1:1"
+    },
+    {
+      "name": "X10:1",
+      "type": "continuous",
+      "group_name": "X10:1"
+    },
+    {
+      "name": "X11:1",
+      "type": "continuous",
+      "group_name": "X11:1"
+    },
+    {
+      "name": "X12:1",
+      "type": "continuous",
+      "group_name": "X12:1"
+    },
+    {
+      "name": "X13:1",
+      "type": "continuous",
+      "group_name": "X13:1"
+    },
+    {
+      "name": "X14:1",
+      "type": "continuous",
+      "group_name": "X14:1"
+    },
+    {
+      "name": "X15:1",
+      "type": "continuous",
+      "group_name": "X15:1"
+    },
+    {
+      "name": "X2:1",
+      "type": "continuous",
+      "group_name": "X2:1"
+    },
+    {
+      "name": "X3:1",
+      "type": "continuous",
+      "group_name": "X3:1"
+    },
+    {
+      "name": "X4:1",
+      "type": "continuous",
+      "group_name": "X4:1"
+    },
+    {
+      "name": "X5:1",
+      "type": "continuous",
+      "group_name": "X5:1"
+    },
+    {
+      "name": "X6:1",
+      "type": "continuous",
+      "group_name": "X6:1"
+    },
+    {
+      "name": "X7:1",
+      "type": "continuous",
+      "group_name": "X7:1"
+    },
+    {
+      "name": "X8:1",
+      "type": "continuous",
+      "group_name": "X8:1"
+    },
+    {
+      "name": "X9:1",
+      "type": "continuous",
+      "group_name": "X9:1"
+    },
+    {
+      "name": "Y1:1",
+      "type": "continuous",
+      "group_name": "Y1:1"
+    }
+  ]
+}
