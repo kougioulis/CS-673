@@ -48,6 +48,14 @@ You may create the virtual environments with their respective requirements using
 - The first environment runs on Python 3.8.19.
 - The second environment runs on Python 3.10.1.
 
+### 🥰 Reproducing the experiments
+
+- Run `generate_dataset.ipynb` to generate a CDML configuration, plot the causal graph and generate the corresponding time-lagged dataset.
+
+- Run `experiments.ipynb` to run a DECI model on a CDML configuration, compute the metrics and compare to the ground truth graph, as well as PCMCI.
+
+- Run `RunAll.ipynb` to evaluate all pre-trained DECI models on each datasetavailable at the `datasets` folder and compare with PCMCI.
+
 ---
 
 Enjoy! 🚀
