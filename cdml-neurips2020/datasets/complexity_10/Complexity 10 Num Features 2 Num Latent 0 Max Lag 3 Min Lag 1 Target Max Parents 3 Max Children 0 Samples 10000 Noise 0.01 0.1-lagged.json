@@ -1,0 +1,64 @@
+{
+  "variables": [
+    {
+      "name": "X1",
+      "type": "continuous",
+      "group_name": "X1"
+    },
+    {
+      "name": "X2",
+      "type": "continuous",
+      "group_name": "X2"
+    },
+    {
+      "name": "Y1",
+      "type": "continuous",
+      "group_name": "Y1"
+    },
+    {
+      "name": "X1:1",
+      "type": "continuous",
+      "group_name": "X1:1"
+    },
+    {
+      "name": "X2:1",
+      "type": "continuous",
+      "group_name": "X2:1"
+    },
+    {
+      "name": "Y1:1",
+      "type": "continuous",
+      "group_name": "Y1:1"
+    },
+    {
+      "name": "X1:2",
+      "type": "continuous",
+      "group_name": "X1:2"
+    },
+    {
+      "name": "X2:2",
+      "type": "continuous",
+      "group_name": "X2:2"
+    },
+    {
+      "name": "Y1:2",
+      "type": "continuous",
+      "group_name": "Y1:2"
+    },
+    {
+      "name": "X1:3",
+      "type": "continuous",
+      "group_name": "X1:3"
+    },
+    {
+      "name": "X2:3",
+      "type": "continuous",
+      "group_name": "X2:3"
+    },
+    {
+      "name": "Y1:3",
+      "type": "continuous",
+      "group_name": "Y1:3"
+    }
+  ]
+}
