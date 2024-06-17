@@ -4,7 +4,7 @@
 
 ## 📜 Overview
 
-The task of **Causal Discovery** is to uncover the true DAG \(G\) given a dataset \(D\) such that \(pD ∼ G\). Since the work of [ZARX18], which transformed the task of causal discovery to a continuous optimization program with acyclicity constraints, significant attention has shifted to deep learning-based causal discovery algorithms.
+The task of **Causal Discovery** is to uncover the true DAG $\mathcal{G}$ given a dataset $D$ such that $p\_D ∼ \mathcal{G}$. Since the work of [ZARX18], which transformed the task of causal discovery to a continuous optimization program with acyclicity constraints, significant attention has shifted to deep learning-based causal discovery algorithms.
 
 In this project, we select **DECI (Deep End-to-end Causal Inference)**, a SOTA causal discovery algorithm for iid observational data by [GAF+22], a variational inference model modeling exogenous noise as a normalizing flow.
 
@@ -46,7 +46,7 @@ You may create the virtual environments with their respective requirements using
 ### 📌 Environment Details
 
 - The first environment runs on Python 3.8.19.
-- The second environment runs on Python 3.10.1.
+- The second environment runs on Python 3.10.1, 🔥 PyTorch 1.13.0 and PyTorch lightning 2.2.2. 
 
 ### 🥰 Reproducing the experiments
 
